@@ -12,6 +12,6 @@
   {
     "version": "0.0.3",
     "description": "Test release 3",
-    "packageUrl": ""
+    "packageUrl": "https://github.com/trikstor/UpdateInstaller/raw/master/Tests/Data/TestPackage.zip"
   }
 ]
