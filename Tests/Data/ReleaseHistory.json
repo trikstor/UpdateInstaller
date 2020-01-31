@@ -1,0 +1,17 @@
+[
+  {
+    "version": "0.0.1",
+    "description": "Test release 1",
+    "packageUrl": "https://test.com/package1.zip"
+  },
+  {
+    "version": "0.0.2",
+    "description": "Test release 2",
+    "packageUrl": "https://test.com/package1.zip"
+  },
+  {
+    "version": "0.0.3",
+    "description": "Test release 3",
+    "packageUrl": ""
+  }
+]
